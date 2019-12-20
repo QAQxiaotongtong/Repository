@@ -10,7 +10,7 @@ namespace _12._20
     {
         static void Main()
         {
-            453453453d
+           int asdas=453453453;
         }
     }
 }
