@@ -10,7 +10,7 @@ namespace _12._20
     {
         static void Main()
         {
-            453453453dsfgdfdfgdf;
+            453453453d
         }
     }
 }
